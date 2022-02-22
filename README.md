@@ -3,6 +3,11 @@ TUM EI Master Course "Digital Signal Processing [EI70220]"/ "Multidimensional Di
 
 This repository contains the assignment solutions.
 
+Note:
+
+* Scripts are adjusted from the original Matlab Grader. Hence, the code should be run section-by-section.
+* The data used (images and video sequences) is available in the corresponding directory.
+
 Assignment content: 
 
 * Image manipulation and periodic sequences
